@@ -8,5 +8,5 @@ _python virtual environment help us manage the dependencies, and reduce effort w
 ##### How to create virtual environment in python ? 
 `python -m venv C:\Users\username\Documents\virtual_envs\your_project_name`
 
-##### How to activate virtual environemnt on windows? 
+##### How to activate virtual environment on windows? 
 `C:\Users\username\Documents\virtual_envs\your_project_name\Scripts\activate.bat`
